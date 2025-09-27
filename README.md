@@ -1,5 +1,5 @@
 # Email Spam Classifier
-
+[TRY Website](https://email-spam-or-ham-classifier.streamlit.app/)
 ## 📖 Overview
 
 This project is a machine learning-based Email Spam Classifier. It uses Natural Language Processing (NLP) techniques to preprocess email text and a Multinomial Naive Bayes model to classify an email as either "Spam" or "Ham" (Not Spam). The project includes a Jupyter Notebook detailing the model development process and a simple, interactive web application built with Streamlit for real-time classification.
